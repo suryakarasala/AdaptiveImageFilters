@@ -13,3 +13,7 @@ You'll find the following adaptive filters:
 ## Software Requirements
 
 * [Matlab](https://www.mathworks.com/products/matlab.html)
+
+## Acknowledgements
+
+Special thanks to [Sergio Sierra](https://github.com/sergiosierram) who helped in the development of the codes.
