@@ -69,5 +69,5 @@ while i < f
     j=1;
 end
 figure;
-subplot(1,2,1); imshow(I);title("Original Image")
-subplot(1,2,2); imshow(Inueva);title("Image with Median Grow Filter")
+subplot(1,2,1); imshow(I);title('Original Image')
+subplot(1,2,2); imshow(Inueva);title('Image with Median Grow Filter')

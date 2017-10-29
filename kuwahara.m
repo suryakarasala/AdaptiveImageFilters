@@ -44,6 +44,6 @@ for i=1:f
 end
 
 figure; 
-subplot(1,2,1);imshow(I);title("Original Image")
-subplot(1,2,2);imshow(Inueva);title("Image with Kuwahara Filter")
+subplot(1,2,1);imshow(I);title('Original Image')
+subplot(1,2,2);imshow(Inueva);title('Image with Kuwahara Filter')
 
